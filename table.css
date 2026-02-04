@@ -1,0 +1,70 @@
+/* Make the page look nice */
+body {
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+}
+
+/* The big box that holds everything */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Store name - big and purple! */
+#title-heading {
+    color: blueviolet;
+    font-size: xxx-large;
+}
+
+/* All the table parts get borders */
+table, thead, th, tr, td, caption {
+    border: 2px solid blue;
+}
+
+/* Make the table take up space nicely */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* The table header row - make it stand out! */
+thead {
+    background-color: lightgreen;
+}
+
+/* Make the header text bold and bigger */
+th {
+    font-size: large;
+    padding: 10px;
+}
+
+/* Regular cells - add some space inside */
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* The caption at the top of the table */
+caption {
+    background-color: orange;
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+    font-weight: bold;
+}
+
+/* The footer row with the total */
+tfoot {
+    background-color: yellow;
+}
+
+/* Make the Total box colorful */
+.Total {
+    background-color: lightpink;
+    padding: 15px;
+    margin-top: 20px;
+    border: 3px solid hotpink;
+}
