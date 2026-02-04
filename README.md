@@ -1,5 +1,11 @@
 # 🛒 Shopping Receipt - HTML Table Practice
 
+## 📸 What It Looks Like
+
+![Shopping Receipt Screenshot](screenshot.png)
+
+*A colorful shopping receipt showing items purchased at Galaxy SuperMart*
+
 ## 📚 What You'll Learn
 
 This project teaches you how to create **tables** in HTML! Tables are used to organize information in rows and columns, just like a shopping receipt.
@@ -31,7 +37,7 @@ Here's what each part of a table does:
   <tfoot>         ← The footer section (bottom of table)
 ```
 
-## 🎨 Fun Things to Try!
+## 🎨 Fun Things to Try
 
 ### Change Colors
 
@@ -107,6 +113,21 @@ Here are some fun color names to try:
 3. Make changes in the files
 4. Refresh the browser to see your changes
 
+## 📸 How to Add Your Screenshot
+
+To add a screenshot of your finished receipt to this README:
+
+1. Open `index.html` in your web browser
+2. Take a screenshot of the page
+3. Save the screenshot as `screenshot.png` in the same folder as this README
+4. The screenshot will automatically show up at the top of this file!
+
+**Tips for taking a good screenshot:**
+
+- Make sure the whole receipt is visible
+- Use a screenshot tool (Windows: Snipping Tool, Mac: Cmd+Shift+4)
+- Save it with the exact name `screenshot.png`
+
 ## 🎉 Remember
 
 - HTML is for structure (the skeleton)
@@ -116,4 +137,4 @@ Here are some fun color names to try:
 
 ---
 
-### Made for young coders learning HTML tables! Keep practicing and have fun! 🌟
+**Made for young coders learning HTML tables! Keep practicing and have fun! 🌟**
