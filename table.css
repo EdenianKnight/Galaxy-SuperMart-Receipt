@@ -20,7 +20,7 @@ body {
 }
 
 /* All the table parts get borders */
-table, thead, th, tr, td, caption {
+table, thead, tr, caption {
     border: 2px solid blue;
 }
 
@@ -28,7 +28,7 @@ table, thead, th, tr, td, caption {
 table {
     width: 100%;
     margin-top: 20px;
-}
+    
 
 /* The table header row - make it stand out! */
 thead {
